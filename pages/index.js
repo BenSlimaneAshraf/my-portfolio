@@ -36,7 +36,7 @@ export default function Home() {
           <p>
             <span className={styles.hello}>Hello,</span>
             <br />
-            <span className={styles.myName}>I'm Ashraf Ben Slimene,</span>
+            <span className={styles.myName}>I&apos;m Ashraf Ben Slimene,</span>
             <br />
             <span className={styles.jobTitle}>
               UX/UI Designer and Frontend Developer based in Tunisia.
@@ -45,12 +45,12 @@ export default function Home() {
           <p>
             With 6 years + of experience developping web apps in e-learning
             industries. <br /> I have extensive knowledge in Javascript and
-            browser API's as well as significant experience <br /> with popular
-            frameworks and libraries like React and Redux.
+            browser API&apos;s as well as significant experience <br /> with
+            popular frameworks and libraries like React and Redux.
           </p>
           <p>
-            I'm ambitious, creative, curious, motivated, cooperative,
-            intelligent and hardworker. <br /> Outside of programming I'm
+            I&apos;m ambitious, creative, curious, motivated, cooperative,
+            intelligent and hardworker. <br /> Outside of programming I&apos;m
             passioned about new technologies, arts and cars.
           </p>
           <p>You can follow me on Facebook, Instagram and Youtube.</p>
